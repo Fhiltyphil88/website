@@ -124,7 +124,7 @@ image:
 
 Scala Syntax adds basic syntax highlighting for Scala and `sbt` files.
 
-To get it, simply head to Gitpod's **Extensions** panel (left vertical menu in the IDE), then search for "Scala Syntax", and install it "for this project". Then, commit the automatic `.gitpod.yml` change that was made by Gitpod.
+To get it, open Gitpod's **Extensions** panel (left vertical menu in the IDE), then search for "Scala Syntax", and install it "for this project". Then, commit the automatic `.gitpod.yml` change that was made by Gitpod.
 
 ### Metals
 
