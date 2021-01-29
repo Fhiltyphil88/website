@@ -132,7 +132,7 @@ To get it, open Gitpod's **Extensions** panel (left vertical menu in the IDE), t
 
 Metals adds helpful Scala features to Gitpod, for example, advanced autocompletion and debugging support just to name a few. Although to use it you must also have the previously mentioned Scala Syntax.
 
-To get it, simply head to Gitpod's **Extensions** panel (left vertical menu in the IDE), then search for "Scala Metals", and install it "for this project". Then, commit the automatic `.gitpod.yml` change that was made by Gitpod.
+To get it, open Gitpod's **Extensions** panel (left vertical menu in the IDE), then search for "Scala Metals", and install it "for this project". Then, commit the automatic `.gitpod.yml` change that was made by Gitpod.
 
 Boom! You're done! (Just a reminder, don't forget to push the changes.)
 
